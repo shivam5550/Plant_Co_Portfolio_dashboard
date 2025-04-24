@@ -16,6 +16,8 @@ Developed a dynamic, interactive performance dashboard in Power BI for PlantCo, 
 
 6. Applied clean and cohesive visual themes for an intuitive user experience that supports quick insights and decision-making.
 
+![Dashboard Preview](/Screenshot 2025-04-24 151246.png)
+![Dashboard Preview](/23.png)
 
 
 
